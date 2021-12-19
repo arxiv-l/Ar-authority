@@ -20,6 +20,7 @@
 *.tar.gz
 *.rar
 target/
+test/
 
 ### IntelliJ IDEA ###
 .idea
