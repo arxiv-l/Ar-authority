@@ -10,16 +10,16 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.arx</groupId>
-    <version>1.0-SNAPSHOT</version>
     <modules>
         <module>ar-tools-swagger2</module>
-        <module>ar-ools-dozer</module>
+        <module>ar-tools-dozer</module>
         <module>ar-tools-validator</module>
     </modules>
+
     <artifactId>ar-tools</artifactId>
     <packaging>pom</packaging>
     <name>${project.artifactId}</name>
+    <version>1.0-SNAPSHOT</version>
     <description>工具工程,公共模块</description>
 
     <properties>
